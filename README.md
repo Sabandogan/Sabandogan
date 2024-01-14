@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba, Ben Şaban Doğan 👋</h1>
 <p align="center">
-  <a href="www.linkedin.com/in/sabandogann"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8"></a>
+  <a href="https://www.linkedin.com/in/sabandogann/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8"></a>
  
 </p>
 

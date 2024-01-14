@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Merhaba, Ben Şaban Doğan 👋</h1>
+<p align="center">
+  <a href="www.linkedin.com/in/sabandogann"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8"></a>
+ 
+</p>
 
-<!--
-**Sabandogan/Sabandogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Hakkımda
 
-Here are some ideas to get you started:
+Merhaba! Ben Şaban Doğan, Bilecik Şeyh Edebali Üniversitesi'nde bilgisayar programcılığı öğrencisi olarak eğitimime devam ediyorum. Yazılım geliştirmeye olan ilgim çocukluğumdan beri devam ediyor ve her geçen gün yeni şeyler öğrenmeye odaklanıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projelerim
+
+
+
+
+## 📚 İlgi Alanlarım
+
+- Web Geliştirme
+- Veritabanı Programlama
+- Masaüstü Uygulama Geliştirme
+
+## 📫 İletişim
+
+- 📧 Email: doogansaban@gmail.com
+
+
